@@ -70,3 +70,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ![Screenshot](assets-report/08.png)
 
 ![GIF](assets-report/03.gif)
+
+* ## **Jawaban Soal/Praktikum 4**
+
+![GIF](assets-report/04.gif)
