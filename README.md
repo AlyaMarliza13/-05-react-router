@@ -54,3 +54,19 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 >**Pertanyaan:** Apa kekurangan yang mungkin terjadi jika menggunakan pendekatan pada Praktikum 2 untuk menangani routing?
 
 >**Jawaban:** Kekurangan yang terjadi dalam menggunakan routing bersarang ialah kompleksitas kode yang kompleks, kesulitan dalam pemeliharaan karena banyaknya lapisan routing, penanganan _error_ yang jauh lebih rumit, serta penanganan navigasi antar halaman yang bersarang cukup tumit dan membingungkan bagi pengguna.
+
+* ## **Jawaban Soal/Praktikum 3**
+
+> **Hasil ToDo 1**
+
+![GIF](assets-report/01.gif)
+
+> **Hasil ToDo 2**
+
+![Screenshot](assets-report/07.png)
+
+![GIF](assets-report/02.gif)
+
+![Screenshot](assets-report/08.png)
+
+![GIF](assets-report/03.gif)
